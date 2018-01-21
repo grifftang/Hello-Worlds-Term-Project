@@ -1,0 +1,26 @@
+3.5 Hours - Creating Demo
+1.5 Hours - Creating Gravity
+2 Hours   - Debugging Gravity / Developing UI
+2 Hours   - Making Mode Dispatcher
+4 Hours   - Making Splash screens, help, pause, menus
+2 Hours   - Making the game read txt file levels
+~15 Total Hours~
+2 Hours   - Making the game
+5 Hours   - Fixing bugs and polishing features
+1 Hours   - Polishing for TP2
+2 Hours   - Making Levels / Buttons
+~25 Total Hours~
+3 Hours   - Polishing Buttons and Beginning level creator
+3 Hours   - Background and Power Line
+2 Hours   - Polishing and fixing misc. longtime bugs
+2 Hours   - Score Screen and more longterm infrastructure changes
+~35 Total Hours~
+5 Hours   - Adding music, vector fields, and fixing longstanding bugs
+2 Hours   - Hyper polishing, level customizer help pop-up and escape
+3 Hours   - Polishing rocket rotation, smoothing out recent bugs, and polishing
+2 Hours   - Adding sound affects and images
+3 Hours   - Polishing and waffling around with bugs
+~45 Total Hours~
+2 Hours   - Making fonts happen
+3 Hours   - Polishing for tp3
+1 Hour    - Somehow more polishing

@@ -1,0 +1,22 @@
+	I plan on creating a game that I will call "Hello Worlds," centered around gravity. The user will
+play as a celestial object (likely a circle), boosting around space and stars in order to get from
+one side of a plane to another dodging around the gravity wells with user inputted trajectory
+as well as inherent trajectory created by gravity functions. In addition to normal "boosting" to
+navigate the terrain, users will also have a "last resort" ability akin to that of the very popular
+game "Agar.io," where the user can split into two masses that total the original mass, propelling one
+of the two new models ahead. This mechanic will be in place in order to rescue the user from an event-
+horizon type situation with any stars. 
+	The game will implement pygame, as well as my own psuedo-physics-engine, based around real
+life models of gravitation. Objects will gravitate dynamically according to mass, which will be 
+represented by the size of the object on screen. In addition, I plan on adding features such as
+"create your own level" mode where the user can place suns around, and try to solve the problems.
+I plan on solving many of the challenges that arise from my idea with physics based in reality. With
+many levels, possibly randomly generated levels, I plan to create help functions that guide the user
+to possible routes of solution. To do this, I will have to create a pseudo-solver that can identify
+where best to go in order to complete the level. This will be a formidable challenge, as there should be
+endless possibilities to how a level can be solved, but an AI helper will use an arbitrary strategy 
+that I will adapt as the complexity of the game progresses.
+	With this description as my projects backbone, I plan to add features and revisions as I create
+the game and find what is/isn't suitable from my original intentions. 
+
+

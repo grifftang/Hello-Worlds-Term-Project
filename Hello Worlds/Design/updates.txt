@@ -1,0 +1,30 @@
+Updates between TP1 and TP2:
+-Modes
+-Levels
+-Game Structure
+-Buttons
+-Help Screen
+-Removed a lot of magic numbers
+-Made levels load off of a text doc database
+-Started infrastructure for my intended features such as level creator
+
+Updates between TP2 and TP3
+-Background
+-Level select looks dope
+-Scores Screen
+-View Scores / Reset Scores Button in the Score View
+-Vector Field
+-Music
+-Level Creator
+-fixed help screen
+-made sun hit more consistent
+-Explosions
+-Player image
+-Player rotation
+-made sure nothings past 80 lines
+-added “lost in space”
+-“PRESS SHIFT Q TO EXIT” sign
+
+
+
+

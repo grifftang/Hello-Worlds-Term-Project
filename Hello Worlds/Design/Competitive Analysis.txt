@@ -1,0 +1,23 @@
+	Though many games exist that are centered around components of my idea, Hello Worlds will
+combine the style of "Agar.io," a game that features dots that absorb mass, split mass, and navigate
+as a dot. However, I will adapt these ideas to my main theme which will be gravity. Though many gravity
+games exist, I have see none like my idea. A web app called "gravity game" features a tiny alien
+that you must land around a planet by using thrusters in microgravity. The navigation in Hello Worlds
+will be similar to this, however the game itself will be total different in objective and structure.
+ 
+	Though I like how Agar.io does many things, I do not like the mouse navigation, and
+ will use the navigation style of gravity game. Because these games are not entirely comparable to
+my idea, it is hard to say what features I will and wont include in a top level sense. I plan to
+have a sandbox mode or level creator, many levels to navigate through like gravity game, however mine
+may be randomly generated fully, to constraints, or not at all if it proves infeasible. Agar.io is
+a multiplayer, essentiall sandbox game, so since my game will not be multiplayer or sandbox at its
+essence, it will reflect neither of those qualities. 
+
+	A very admiral usage of my base form - the relationship between the planet(s) and suns- is
+demonstrated very profoundly in the game "Universe Sandbox." It is a three-dimensional, open ended,
+simulation of gravity where the user creates planets and suns to make complex systems. Though this
+is amazing, it is far too open ended of a goal, therefor I will only use it as inspiration for my theme,
+and a sandbox mode that echos it in two dimensions. Because of the nature of games recently, as
+well as the already fairly large scope of my project, I will not be doing three dimensions. In addition,
+three dimensions would likely detract from Hello Worlds, muddling it with complexity and breaking the,
+ideally, sleak and intuitive user experience.
